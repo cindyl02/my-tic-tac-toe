@@ -1,0 +1,22 @@
+.square {
+  background: white;
+  border: 1px solid black;
+  vertical-align: bottom;
+  font-size: 30px;
+  font-weight: bold;
+  height: 50px;
+  width: 50px;
+  padding: 0;
+  text-align: center;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.board {
+  display: inline-block;
+  float: left;
+  height: 200px;
+  width: 200px;
+}
