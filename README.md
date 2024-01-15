@@ -1,4 +1,4 @@
-## Tic Tac Toe
+## Tic Tac Toe (2020)
 A React implementation of Tic Tac Toe for two players
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
